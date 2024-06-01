@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<center>
+
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,15 +17,15 @@
             background-color: rgba(255, 255, 255, 0.8);
             color: #333;
             text-align: center;
-            padding: 20px 0;
+            padding: 10px 0;
         }
         .container {
-            max-width: 800px;
-            margin: 20px auto;
+            max-width: 200px;
+            margin: 10px auto;
             padding: 20px;
             background-color: rgba(255, 255, 255, 0.8);
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            border-radius: 4px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
         }
         h1, h2 {
             text-align: center;
@@ -33,14 +33,14 @@
         }
         p {
             line-height: 1.6;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
         }
         .thanks-img {
             display: block;
             margin: 0 auto;
             max-width: 100%;
             height: auto;
-            border-radius: 8px;
+            border-radius: 5px;
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
         }
         footer {
@@ -54,7 +54,7 @@
         }
         #emoticons {
             font-size: 24px;
-            margin-top: 10px;
+            margin-top: 5px;
             text-align: center;
         }
         .animated {
@@ -112,5 +112,5 @@
         });
     </script>
 </body>
-</center>
+
 </html>
