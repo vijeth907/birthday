@@ -22,7 +22,7 @@
         .container {
             max-width: 200px;
             margin: 10px auto;
-            padding: 20px;
+            padding: 10px;
             background-color: rgba(255, 255, 255, 0.8);
             border-radius: 4px;
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
@@ -32,7 +32,7 @@
             color: #333;
         }
         p {
-            line-height: 1.6;
+            line-height: 1;
             margin-bottom: 10px;
         }
         .thanks-img {
@@ -53,7 +53,7 @@
             width: 100%;
         }
         #emoticons {
-            font-size: 24px;
+            font-size: 12px;
             margin-top: 5px;
             text-align: center;
         }
