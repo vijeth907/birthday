@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 
 <html lang="en">
 <head>
@@ -21,7 +21,7 @@
             padding: 20px 0;
         }
         .container {
-            max-width: 800px;
+            max-width:200px;
             margin: 20px auto;
             padding: 20px;
             background-color: rgba(255, 255, 255, 0.8);
