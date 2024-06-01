@@ -55,7 +55,7 @@
         }
         #emoticons {
             font-size: 24px;
-            margin-top: 10px;
+            margin-top: 5px;
             text-align: center;
         }
         .animated {
