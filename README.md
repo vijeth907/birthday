@@ -20,7 +20,7 @@
             padding: 5px 0;
         }
         .container {
-            max-width: 200px;
+            max-width: 400px;
             margin: 5px auto;
             padding: 5px;
             background-color: rgba(255, 255, 255, 0.8);
