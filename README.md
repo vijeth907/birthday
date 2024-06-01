@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thank You for My Birthday</title>
+    <title>Thank You for My birthday 🥰</title>
     <style>
         body {
             font-family: 'Comic Sans MS', cursive, sans-serif;
@@ -26,7 +26,7 @@
             padding: 20px;
             background-color: rgba(255, 255, 255, 0.8);
             border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
         }
         h1, h2 {
             text-align: center;
