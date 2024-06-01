@@ -36,7 +36,7 @@ Thank You for My birthday 🥰
         }
         p {
             line-height: 1.6;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
         }
         .thanks-img {
             display: block;
@@ -81,7 +81,7 @@ Thank You for My birthday 🥰
 </head>
 <body>
     <header>
-        <h1>Thank You for Making My Birthday Special!</h1>
+        <h1>Thank You for Making My Birthday Special!🥰</h1>
     </header>
 
     <div class="container animated fadeIn">
