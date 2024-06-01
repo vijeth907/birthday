@@ -36,7 +36,7 @@ Thank You for My birthday 🥰
         }
         p {
             line-height: 1.6;
-            margin-bottom: 10px;
+            margin-bottom: 15px;
         }
         .thanks-img {
             display: block;
