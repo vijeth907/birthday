@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<center>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -113,5 +113,5 @@
         });
     </script>
 </body>
-</center>
+
 </html>
