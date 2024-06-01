@@ -17,12 +17,12 @@
             background-color: rgba(255, 255, 255, 0.8);
             color: #333;
             text-align: center;
-            padding: 10px 0;
+            padding: 5px 0;
         }
         .container {
             max-width: 200px;
-            margin: 10px auto;
-            padding: 10px;
+            margin: 5px auto;
+            padding: 5px;
             background-color: rgba(255, 255, 255, 0.8);
             border-radius: 4px;
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
@@ -38,7 +38,7 @@
         .thanks-img {
             display: block;
             margin: 0 auto;
-            max-width: 50%;
+            max-width: 75%;
             height: auto;
             border-radius: 5px;
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
