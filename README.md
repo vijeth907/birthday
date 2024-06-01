@@ -38,7 +38,7 @@
         .thanks-img {
             display: block;
             margin: 0 auto;
-            max-width: 100%;
+            max-width: 50%;
             height: auto;
             border-radius: 5px;
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
