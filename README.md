@@ -78,7 +78,7 @@
 </head>
 <body>
     <header>
-        <h1>Thank You for Making My Birthday Special!</h1>
+        <h1>Thank You for Making My Birthday Special!😍</h1>
     </header>
 
     <div class="container animated fadeIn">
