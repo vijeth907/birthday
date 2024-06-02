@@ -98,6 +98,7 @@
     </div>
     <footer>
         <p>Thank you once again! 🙏</p>
+<p>your response will be noted</p>
  <p>Created by MR_VLEGEND</p>
 <a href="https://youtube.com/@thezaxoff?si=tuJKT5oCIFxXjwuU">MY    YOUTUBE CHANNEL</a>
     </footer>
