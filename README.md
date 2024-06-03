@@ -23,7 +23,7 @@
             max-width: 300px;
             margin: 5px auto;
             padding: 5px;
-            background-color: rgba(255, 255, 255, 0.8);
+            background-color: rgba(255, 165, 0, 0.8);
             border-radius: 4px;
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
         }
