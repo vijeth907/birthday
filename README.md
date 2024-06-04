@@ -112,12 +112,12 @@
             document.getElementById('thankYouMessage').style.display = 'block';
         });
     </script>
+<p style="color: black;">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>User Response Storage</title>
-</head>
+
 <body>
-<h1>Enter Your Response</h1>
 <form id="responseForm">
   <label for="userResponse">Your Response:</label><br>
   <input type="text" id="userResponse" name="userResponse"><br><br>
@@ -132,9 +132,9 @@ document.getElementById("responseForm").addEventListener("submit", function(even
   alert("Response stored successfully!");
 });
 </script>
+</p>
 
 </body>
-</html>
 
 </body>
 
