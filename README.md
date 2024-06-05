@@ -48,9 +48,10 @@
             color: #333;
             text-align: center;
             padding: 5px 0;
+            position: fixed;
             
             bottom: 0;
-            width: 100%;
+            width: 95%;
         }
         #emoticons {
             font-size: 12px;
