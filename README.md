@@ -23,7 +23,7 @@
             max-width: 300px;
             margin: 5px auto;
             padding: 5px;
-            background-color: rgba(1, 103,149, 0.8);
+            background-color: rgba(0, 0,0.1, 0.8);
             border-radius: 4px;
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
         }
@@ -112,28 +112,6 @@
             document.getElementById('thankYouMessage').style.display = 'block';
         });
     </script>
-<p style="color: black;">
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>User Response Storage</title>
-
-<body>
-<form id="responseForm">
-  <label for="userResponse">Your Response:</label><br>
-  <input type="text" id="userResponse" name="userResponse"><br><br>
-  <button type="submit">Submit</button>
-</form>
-
-<script>
-document.getElementById("responseForm").addEventListener("submit", function(event){
-  event.preventDefault();
-  var userResponse = document.getElementById("userResponse").value;
-  localStorage.setItem("userResponse", userResponse);
-  alert("Response stored successfully!");
-});
-</script>
-</p>
-
 </body>
 
 </body>
