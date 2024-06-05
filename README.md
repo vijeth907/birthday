@@ -47,11 +47,10 @@
             background-color: rgba(255, 255, 255, 0.8);
             color: #333;
             text-align: center;
-            padding: 5px 0;
+            padding: 20px 0;
             position: fixed;
-            
             bottom: 0;
-            width: 95%;
+            width: 100%;
         }
         #emoticons {
             font-size: 12px;
