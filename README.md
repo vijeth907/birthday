@@ -80,6 +80,7 @@
     <header>
         <h1>Thank You for Making My Birthday Special!😍</h1>
     </header>
+<img src="F:\Desktop\Caed.jpg" alt="Description of the image">
 
     <div class="container animated fadeIn">
         <form id="nameForm">
