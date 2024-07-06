@@ -19,6 +19,7 @@
   <li><a href="https://drive.google.com/file/d/1cRzJjJjKQykBkCxLPTx5u6ip5utz-Mtg/view?usp=drive_link">Problem 1 A sphere of diameter 50 mm rests centrally on top of a cube of sides 50 mm. Draw the Isomet ric projections of the combination of solids</a></li>
  -------------------------------------------------------------------------------------------------------------------------------------------
   <li><a href="https://drive.google.com/file/d/1v2O0kr_3jkjdhDboAPsj86mgBbGihSKC/view?usp=sharing">Problem 2 A hemisphere of 40 mm diameter is supported co-axially on the vertex of a cone of base dia. 60 mm and axis length 50 mm. The flat circular face of the hemisphere is facing upside. Draw the isometric projection of the combination of solids.</a></li>
+   -------------------------------------------------------------------------------------------------------------------------------------------
   
   <li><a href="https://drive.google.com/file/d/1EVo-rgN-7GjVOUwviTXASSPK6pv7WNEQ/view?usp=sharing">Problem 3 Draw the Isometric projection of a rectangular prism of 60 x 80 x 20 mm thick surmounting a tetrahedron of sides 45 mm such that the axes of the solids are collinear and at least one of the edges of both the solids are parallel to VP. Solved examples 6.1 p140, 6.2 p143, 6.3 p146, 6.4 p150 and 6.5 p156 of primer</a></li>
   -------------------------------------------------------------------------------------------------------------------------------------------  
