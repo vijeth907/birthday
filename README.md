@@ -25,47 +25,50 @@
   <li><a href="#">Link 7</a></li>
   <li><a href="#">Link 8</a></li>
   <li><a href="#">Link 9</a></li>
-  <li><a href="#">Link 10</a></li>
+  <li><a href="#">Problem 10 A pentagonal pyrarhid of base side 30mm and axis length 60mm is resting on HP on its base with a side of base perpendicular to VP. Draw its isometric projections</a></li>
   <li><a href="#">Link 11</a></li>
   <li><a href="#">Link 12</a></li>
   <li><a href="#">Link 13</a></li>
   <li><a href="#">Link 14</a></li>
-  <li><a href="#">Link 15</a></li>
-  <li><a href="#">Link 16</a></li>
+  <li><a href="#">Problem 15 A hemisphere of diameter 50mm is centrally resting on top of a square prism of base side 60mm and height 30mm such that the curved surface of hemisphere is touching the top face of the prism. Draw its isometric Problem 42 Two rectangular plates are placed centrally with dimensions (lxbxh) 100mmx60mmx20mm and 100mmx40mmx20mm such that longer edges are parallel. Draw the isometric projection of the combination
+</a></li>
+  <li><a href="#">Problem 16 Draw the isometric projection of the combination of solids formed by a frustum of cone and co-axial frustum of pentagonal pyramid. The lower frustum of cone is of 80mm base diameter, 60mm top diameter and height 25mm, the upper frustum of pyramid is of 30mm side of base, 20mm side of top face and height 40mm.</a></li>
   <li><a href="#">Problem 17 A cone of base diameter 50mm and height 40mm is placed centrally on the top face of a square slab side-80mm and height20mm. Draw the isometric projection of the combination</a></li>
   <li><a href="#">Link 18</a></li>
-  <li><a href="#">Link 19</a></li>
+  <li><a href="#">Problem 19 Arectangular pyramid of base-40mmx25mm and height50mm is placed centrally on a rectangular slab sides-100mmx60mm and thickness-20mm. Draw the isometric projection of the combination</a></li>
   <li><a href="#">Link 20</a></li>
   <li><a href="#">Problem 21 A square prism base side-40mm, height50mm is placed centrally on a rectangular slab sides 100mmx60mm and thickness-20mm. Draw the isometric projection of the combination</a></li>
   <li><a href="#">Link 22</a></li>
-  <li><a href="#">Link 23</a></li>
+  <li><a href="#">Problem 23 A frustum of cone base diameter 50mm, top diameter 25mm and height 50mm is placed centrally on a square slab side-80mm and thickness-30mm. Draw the isometric projection of the combination.</a></li>
   <li><a href="#">Problem 24 A frustum of cone base diameter 50mm, top diameter 25mm and height 50mm is placed centrally on the top face of a cylinder diameter 60mm and height 60mm. Draw the isometric projection of the combination</a></li>
   <li><a href="#">Link 25</a></li>
   <li><a href="#">Link 26</a></li>
   <li><a href="#">Link 27</a></li>
   <li><a href="#">Problem 28 Following figure shows the front and side views of solid. Draw the Isometric projection of the solid.</a></li>
-  <li><a href="#">Link 29</a></li>
-  <li><a href="#">Link 30</a></li>
-  <li><a href="#">Link 31</a></li>
+  <li><a href="#">Problem 29 Following figure shows the front and side views of solid. Draw the Isometric projection of the solid.
+
+Solution</a></li>
+  <li><a href="#">Problem 30 Following figure shows the front and top views of solid. Draw the Isometric projection of the solid.</a></li>
+  <li><a href="#">Problem 31 Following figure shows the front and top views of solid. Draw the Isometric projection of the solid.</a></li>
   <li><a href="#">Link 32</a></li>
   <li><a href="#">Link 33</a></li>
-  <li><a href="#">Link 34</a></li>
+  <li><a href="#">Problem 34 A sphere f60mm is placed centrally on the top face of a hexagonal prism side-35mm and height 50mm. Draw the isometric projection of the combination</a></li>
   <li><a href="#">Problem 35 A pentagonal pyramid base side-25mm and height 65mm is placed centrally on a rectangular slab 100mmx60mm and 20mm-thick. Draw the isometric projection of the combination.</a></li>
   <li><a href="#">Link 36</a></li>
-  <li><a href="#">Link 37</a></li>
+  <li><a href="#">Problem 37 Asphere diameter 40mm is placed centrally on the flat face of a hemisphere diameter 60mm. Draw the isometric projection of the combination</a></li>
   <li><a href="#">Problem 38 A cone of base diameter 60mm, top diameter 40mm and height 50mm is placed centrally on frustum of a square pyramid base side-100mm top face side-60mm and height 20mm. Draw the isometric projection of the com bination </a></li>
-  <li><a href="#">Link 39</a></li>
+  <li><a href="#">Problem 39 A frustum of a square pyramid base side-40mm, top face side-20mm and height 40mm is placed centrally on frustum of a cone base diameter 80mm, top diameter 60mm and height 20mm. Draw the isometric projection of the combination</a></li>
   <li><a href="#">Link 40</a></li>
   <li><a href="#">Link 41</a></li>
-  <li><a href="#">Link 42</a></li>
-  <li><a href="#">Link 43</a></li>
+  <li><a href="#"> Problem 42 Two rectangular plates are placed centrally with dimensions (lxbxh) 100mmx60mmx20mm and 100mmx40mmx20mm such that longer edges are parallel. Draw the isometric projection of the combination</a></li>
+  <li><a href="#">Problem 43 A cube of side-40mm is resting centrally on a hexagonal prism base side-40mm and height 50mm, such that one of the base sides of the cube is parallel to one of the sides of the top face of the prism. Draw the isometric projection of the combination</a></li>
   <li><a href="#">Link 44</a></li>
   <li><a href="#">Problem 45 A square prism of base side-30mm and length-70mm, is resting on its rectangular face on top of a square slab side-70mm and 25mm-thick. Draw the isometric projection of the combination Solution</a></li>
   <li><a href="#">Link 46</a></li>
-  <li><a href="#">Link 47</a></li>
+  <li><a href="#">Problem 47 Three cubes of sides 60mm, 40mm and 20mm are placed centrally one above the other in the ascending order of their side. Draw the isometric projection of the combination</a></li>
   <li><a href="#">Problem 48 Acone of base diameter 50mm and height 60mm is placed centrally on an equilateral triangular prism of side-100mm and 20mm thick Draw the isometric projection of the combination</a></li>
-  <li><a href="#">Link 49</a></li>
-  <li><a href="#">Link 50</a></li>
+  <li><a href="#">Problem 49 A square prism side-40mm and height 70mm has a full depth co-axial square hole side-20mm, such that edges of both the squares are parallel. Draw the isometric projection of the combination</a></li>
+  <li><a href="#">Problem 50 A nictangular slab base-100mmx80mm and height 30mm has a full depth co-axial square hole side- 40mm, such that one of the sides of the square is parallel to one of the sides of the rectangle. Draw the isometric projection of the combination</a></li>
 </ul>
 
 </body>
